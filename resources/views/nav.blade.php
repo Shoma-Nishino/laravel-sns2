@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand navbar-dark blue-gradient">
 
-    <a class="navbar-brand" href="/"><i class="far fa-sticky-note mr-1"></i>memo</a>
+    <a class="navbar-brand" href="http://nisino5605.xsrv.jp/demo/laravel-sns2/public/"><i class="far fa-sticky-note mr-1"></i>SNS</a>
 
     <ul class="navbar-nav ml-auto">
 
